@@ -4,4 +4,4 @@ use latest C++ & C standard.
 
 I could have made a build .bat file, but I am not smart enough 😔
 
-I have also used a weird ahh class named Console System, for colorful printing 🙂
+I have also used a weird ahh class named Console System, for colorful printing 🙂 so you WILL also use that 💀
